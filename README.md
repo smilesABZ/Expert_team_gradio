@@ -7,7 +7,7 @@ Gradio (gr): A Python library for creating web-based interfaces, often used to b
 
 Asyncio (asyncio): A framework for writing asynchronous code in Python, allowing functions to run concurrently.
 
-Ollama (ollama): Likely related to LLM (Large Language Models), enabling AI interactions.
+Ollama (ollama): local hosting LLM (Large Language Models), enabling AI interactions. variety of models.
 
 Re (re): The regular expressions library, used for pattern matching in strings.
 
