@@ -1,5 +1,54 @@
+![Screenshot 2025-05-02 103358](https://github.com/user-attachments/assets/789994c3-73ec-4008-9e59-768e4e3bf8e6)
+       Opening screen, with parameter, model and role selections
 
------------------------------------Idle Shell 3.12.8 colsole output-----------------------------------------------------
+       
+
+
+![Screenshot 2025-05-02 103455](https://github.com/user-attachments/assets/d9a5217b-0c00-44d1-8666-e25d3da684f9)
+
+Expert Role Selection
+
+
+
+![Screenshot 2025-05-02 103520](https://github.com/user-attachments/assets/c6f58d86-47ae-4e50-8015-d3e3ebaacbf9)
+
+
+Expert Role Model Selection, model per role
+
+
+
+
+
+![Screenshot 2025-05-02 103554](https://github.com/user-attachments/assets/ca9beabf-8bcd-4818-99da-3f29b6a84ffa)
+
+
+Model Approach, 3 temperature stops, per role inc Supervisor
+
+
+
+
+![Screenshot 2025-05-02 103637](https://github.com/user-attachments/assets/d32b6b27-0848-4c9c-89c8-cdd68865cae5)
+
+
+Supervisor/senior manager model selection
+
+![Screenshot 2025-05-02 103817](https://github.com/user-attachments/assets/a359f702-4b6f-4bff-a408-e106db27ea6c)
+
+Expert Team Prompt
+
+
+![Screenshot 2025-05-02 104021](https://github.com/user-attachments/assets/ef97511f-1da5-428f-b9ad-acc7216f0ec7)
+
+
+Idle Shell console output img
+
+
+
+
+
+
+
+-----------------------------------Idle Shell 3.12.8 console output-----------------------------------------------------
 Python 3.12.8 (tags/v3.12.8:2dc476b, Dec  3 2024, 19:30:04) [MSC v.1942 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
@@ -232,3 +281,6 @@ Ultimately, a compelling visualization should aim to create a visual story that 
 --- BEFORE GRADIO RETURN ---
   Perfect Answer Text (before return): No Perfect Answer provided in evaluation.
   Illustration Prompt Text (before return): No Illustration Prompt provided in evaluation.
+
+
+
