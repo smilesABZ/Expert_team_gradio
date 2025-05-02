@@ -1,3 +1,37 @@
+Working with Gradio, asyncio, and Ollama in a Python script. 
+Based on the surrounding page content, this script is part of the Expert_team_gradio repository, which seems to be an AI-driven system for generating expert responses. 
+Here’s a quick breakdown of what the imports are doing:
+
+Gradio (gr): A Python library for creating web-based interfaces, often used to build interactive AI demos.
+
+Asyncio (asyncio): A framework for writing asynchronous code in Python, allowing functions to run concurrently.
+
+Ollama (ollama): Likely related to LLM (Large Language Models), enabling AI interactions.
+
+Re (re): The regular expressions library, used for pattern matching in strings.
+
+The script  defines different expert roles—like Strategic Business Advisor, Technical Implementation Expert, Ethical and Societal Impact Officer, and Creative Innovation Catalyst—who respond to prompts based on set temperature parameters. 
+The responses are then evaluated by a senior manager using an AI model.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2025-05-02 103358](https://github.com/user-attachments/assets/789994c3-73ec-4008-9e59-768e4e3bf8e6)
        Opening screen, with parameter, model and role selections
 
