@@ -1,5 +1,5 @@
 Working with Gradio, asyncio, and Ollama in a Python script. 
-Based on the surrounding page content, this script is part of the Expert_team_gradio repository, which seems to be an AI-driven system for generating expert responses. 
+This script is part of the Expert_team_gradio repository, which is AI-driven system for generating expert responses. 
 Here’s a quick breakdown of what the imports are doing:
 
 Gradio (gr): A Python library for creating web-based interfaces, often used to build interactive AI demos.
