@@ -12,9 +12,9 @@ temperature_presets = {
 
 expert_role_descriptions = {
     "Strategic Business Advisor": "Analyze the potential benefits and challenges from a strategic business perspective, focusing on long-term goals and competitive advantage.",
-    "Technical Implementation Expert": "Detail the technical aspects, implementation challenges, and solutions, considering current hospital infrastructure and data systems.",
-    "Ethical and Societal Impact Officer": "Evaluate the ethical and societal implications, including patient privacy, data security, bias in algorithms, and impact on healthcare accessibility and equity.",
-    "Creative Innovation Catalyst": "Explore innovative and unconventional applications, focusing on how LLMs can revolutionize medical diagnosis and patient care in a hospital setting."
+    "Technical Implementation Expert": "Detail the technical aspects, implementation challenges, and solutions, considering current  infrastructure and data systems.",
+    "Ethical and Societal Impact Officer": "Evaluate the ethical and societal implications, including  privacy, data security, bias in algorithms, and impact on  equity.",
+    "Creative Innovation Catalyst": "Explore innovative and unconventional applications, focusing on how LLMs can revolutionize solutions to satisfy the needs of the prompt ."
 }
 
 async def generate_expert_responses(sub_prompt, expert_roles, expert_models, expert_temperature_settings):
